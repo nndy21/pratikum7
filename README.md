@@ -214,3 +214,7 @@ Data mahasiswa disimpan dalam format List of Dictionaries (self.data_nilai). Set
     - ubah(nama): Mencari data berdasarkan nama (tidak case-sensitive) dan meminta input nilai baru untuk diperbarui.
 
 ## output
+<img width="932" height="508" alt="output7 1" src="https://github.com/user-attachments/assets/9d1353fb-7e18-443f-8305-7b22fe1e0f76" />
+<img width="927" height="649" alt="output7 2" src="https://github.com/user-attachments/assets/6366193b-b379-4bef-8f5e-75482f4d7edf" />
+<img width="925" height="748" alt="output7 3" src="https://github.com/user-attachments/assets/189e1ece-a7ed-4037-90e3-003ca1e2f745" />
+<img width="926" height="508" alt="output7 4" src="https://github.com/user-attachments/assets/700d5f75-743d-4741-98c9-04dad5484195" />
