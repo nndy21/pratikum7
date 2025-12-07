@@ -7,7 +7,8 @@
 Tujuan dari program ini adalah mengaplikasikan konsep Object-Oriented Programming (OOP) dalam Python, khususnya konsep Class dan Instance Class, untuk membuat sistem manajemen data nilai mahasiswa sederhana yang meliputi fungsi CRUD (Create, Read, Update, Delete).
 
 ## flowchart
-<img src="/output/flowchart7.png">
+<img width="791" height="951" alt="image" src="https://github.com/user-attachments/assets/59c7cc00-28ae-4364-8cc7-0630441c831b" />
+
 
 ## penjelasan flowchart 
 1. Inisialisasi Program
